@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalynaKilbovych
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me vusochina.galina@gmail.com
 
 <!---
